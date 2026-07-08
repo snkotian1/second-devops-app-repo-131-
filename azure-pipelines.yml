@@ -6,7 +6,7 @@
 trigger:
 - main
 - branch-1
-:
+
 pool:
   vmImage: ubuntu-latest
 
